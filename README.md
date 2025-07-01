@@ -7,9 +7,9 @@ TaskManagerGUI is a simple desktop-based To-Do List application developed using 
 ## Features
 
 - Add new tasks using a text input field
-- Delete selected tasks from the list
+- Press Enter or click "Add Task" to insert a task
+- Select a task from the list and click "Delete Task" to remove it
 - Scrollable task display for long task lists
-- Pressing Enter also adds the task
 - Simple and user-friendly layout using Java Swing
 
 ## Technologies Used
