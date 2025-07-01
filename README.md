@@ -40,7 +40,7 @@ TaskManagerGUI/
 
 Below is a screenshot of the running application:
 
-![Task Manager GUI Screenshot](screenshot.png)
+![Task Manager GUI Screenshot](TaskManagerGUI/screenshot.png)
 
 ## Learning Outcome
 
